@@ -10877,3 +10877,8 @@ figure figcaption {
   color: #000;
   background: #e3e3e3;
 }
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 17px
+  }
+}
